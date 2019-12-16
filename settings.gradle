@@ -1,0 +1,2 @@
+include ':app', ':handlebackstack'
+rootProject.name='BackStackHandling'
